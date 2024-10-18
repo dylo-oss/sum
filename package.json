@@ -40,7 +40,7 @@
   "author": "Shubham Singh<shubh622005@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dylo-oss/sum"
+    "url": "https://github.com/dylo-oss/sum"
   },
   "scripts": {
     "artifacts": "napi artifacts",
