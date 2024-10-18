@@ -12,6 +12,10 @@
     "sum.android-arm-eabi.node"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylo-oss/sum"
+  },
   "engines": {
     "node": ">= 10"
   }
