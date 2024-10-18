@@ -34,6 +34,14 @@
   "engines": {
     "node": ">= 10"
   },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Shubham Singh<shubh622005@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylo-oss/sum"
+  },
   "scripts": {
     "artifacts": "napi artifacts",
     "build": "napi build --platform --release",
@@ -43,5 +51,6 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@4.5.1",
+  "readme": "A simple Node-JS package made using rust binaries"
 }
