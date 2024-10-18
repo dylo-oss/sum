@@ -1,0 +1,15 @@
+{
+  "name": "@dylo/sum-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "sum.darwin-universal.node",
+  "files": [
+    "sum.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
