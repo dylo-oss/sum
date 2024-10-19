@@ -44,6 +44,7 @@
   },
   "scripts": {
     "artifacts": "napi artifacts",
+    "benchmarks": "node benchmarks/benchmark.js ",
     "build": "napi build --platform --release",
     "build:debug": "napi build --platform",
     "prepublishOnly": "napi prepublish -t npm",

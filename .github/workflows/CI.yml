@@ -18,6 +18,8 @@ permissions:
       - '**/*.gitignore'
       - .editorconfig
       - docs/**
+      - benchmarks/**
+      - public/**
   pull_request: null
 jobs:
   build:
